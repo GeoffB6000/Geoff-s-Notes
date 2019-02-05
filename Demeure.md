@@ -1,12 +1,54 @@
-# *Demeure*
+# *Demeure* / *Fiction and Testimony*
 #### Seminar presentation by Geoffrey Bates, 100846572
 #### Prof. Stuart J Murray
 #### ENGL 5002
 #### 06-02-2019
 
+## Purpose
+# My hypothesis is that these seven trajectories (of *passion*) traverse the text *The Instant of My Death*, which Maurice Blanchot published several months ago, and which I will attempt to read with you a little later. I do not know whether this text belongs, purely and properly and strictly and rigorously speaking, to the space of literature, whether it is a fiction or a testimony, and, above all, to what extent it calls these distinctions into question or causes them all to tremble. (25-6) 
+
+Are we to read Blanchot's *The Instant of My Death* as a work of fiction or testimony? As both? As neither? How does our reading, our expectation, position us in relation to truth? Is the story true? Is it partly true? *Where is the lie?*
+
+# Literature and death, truth and death: this is the subject. (22)
+
 ## 1. *Fiction and Testimony*
+Derrida "must answer" (15) for the title "Fiction and Testimony." What are "the relations between fiction and autobiographical truth"? Between "literature and death"?
+### Argument: the question of the relationship between fiction and testimony presents us with a "double impossibility: the impossibility of deciding, but the impossibility of *remaining* [demeurer] in the undecidable." (16)
+- We are unable to point out a fundamental distinciton between fiction and testimony.
+- Yet we *must* be able to point out a fundamental distinction between fiction and testimony.
+- We are therefore caught between two impossibilities: we assert that there is a distinction and try to find it (and be wrong), or we decide not to decide, deferring the question to exist in a state of *abidance* [*demeurance*]. We *abide by* this fundamental inability to choose, this question in suspension.
+
+This question extends beyond *fiction* and *testimony*. *Dichtung und Wahrheit* are not fiction and testimony. The abiding question, the question we abide by, concerns nothing less than lies and truth themselves, specifically autobiographical lies and truth. For Derrida, Maurice Blanchot's *The Instant of My Death* provides a focus through which we can see and examine the double impossibility of lies and truth, fiction and testimony, literature and death.
+
+# If, always in irreverent homage to Goethe, *truth* becomes *testimony* here, it is perhaps because, as in *Dichtung und Wahrheit*, it will often be a question today of lies and truth: more precisely, of the biographical or autobiographical truthfulness of a witness who speaks of himself and claims to be recounting not only his life but his death, his quasi-resurrection, a sort of Passion -- at the limits of literature. (17)
+
+Derrida introduces a problem: how do we understand death as described in Blanchot's testimony/fiction? Are we to take his description as a true account of his experience? How do we reconcile this encounter with death, this concept of death, with what we know or believe to be true? How can we take Blanchot at his word when he tells us about his death before he has actually died? As a way to help answer this, Derrida playfully slides Goethe's *Dichtung und Wahrheit* (his autobiography, translated as "Poetry and Truth" or "Fiction and Truth") in front of us as a tool for understanding the relationship between fiction and truth in the context of autobiographical writing. 
+
+## As a scientist [Goethe] desired to picture his life as developing stage by stage “according to those laws which we observe in the metamorphosis of the plants.” As a historian he portrayed the general conditions of the times and revealed the relations between them and the individual. As an artist he did not feel tied down to facts for their own sake, but selects those that were of significance and moulded them so that they might become parts of a work of art. In the much-discussed title the word 'Poetry' [*Dichtung*] refers primarily to the artistic form of the work. (Ewald Eisenhardt, "Poetry and Truth". *The Encyclopedia Americana*)
+
+Here we observe Goethe's deployment of truth (scientific, historical) and fiction/poetry (in the creation of art through careful curation of experience).
+
+Substituting *testimony* in place of *truth*, Derrida therefore invites us to consider the role of fiction, of artistic expression, in the act of giving testimony or of expressing the truth of one's life and death. Note the indefinite language: "If", "perhaps". The shift towards specificity as Derrida narrows down into the problem, the religious associations ("resurrection", "Passion"), and this idea of being "at the limits of literature." These are all descriptors and interpretations of the components Derrida uses for his argument, but they are also all themes of the talk to come.
 
 ## 2. *Passions of Literature*
+Derrida responds to the title of the event at which he is speaking: *Passions of Literature*. "The guest must respond to this name, more than one name" (18)
+### Passions
+- plural. There are multiple Passions.
+- multiple *meanings* of Passion. Derrida counts "*seven* knotted trajectories" (25) of Passion.
+- "'passions' is just as burdened with Christian latinity (as literature)." (25)
+### of
+- for/arising from/belonging to?
+### Literature
+- singular.
+- "Literature would thus be the subject and object of these passions, as well as the canvas, or in any case the place, passive and punishable, to which events supervene: an entire history awaits us."
+- Is *the* Literature strictly European, or is it *Weltliteratur*?
+- Latinity/the Latin filiation.
+
+# There is no thought, no experience, no history of literature as such and under this name, no world literature, if such a thing is or remains to come, as Goethe holds somewhat casually, there is no passion of literature that must not first inherit what this latinity assumes and therefore show itself capable of receiving it and, as I would say in French, of suffering it, which is to accept, to receive, to capacitate, to invite, to translate into itself, to assimilate, but also to contain, to keep thus within its boundaries. (21)
+
+# Literary nationalism would be a modern reaction in Europe, like the awakening of nationalities, to Napoleon's superstate project of hegemony. (23)
+
+# Michel Lisse thought it **not unjustified** (this is yet another responsibility I leave to him, while thanking him for it) to associate my name with a very beautiful title, *Passions of Literature*. (20, emphasis added)
 
 ## 3. *The Instant of My Death*
 
