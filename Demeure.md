@@ -18,12 +18,27 @@ Thus Derrida leads us into the *abode* [demeure] of the tangled relationships of
 
 ### Argument: investigating the relationship between fiction and testimony reveals a "double impossibility: the impossibility of deciding, but the impossibility of *remaining* [demeurer] in the undecidable." (16)
 
-1. We are unable to identify a fundamental distinciton between fiction and testimony.
-
-# When a testifying witness, whether or not he is explicitly under oath, appeals to the faith of the other by engaging himself to tell the truth - no judge will accept that he should shirk his responsibility ironically by declaring or insinuating: what I am telling you here retains the status of a literary fiction. And yet, if the testimonial is by law irreducible to the fictional, there is no testimony that does not structurally imply in itself the possibility of fiction, simulacra, dissimulation, lie, perjury - that is to say, the possibility of literature, of the innocent or perverse literature that innocently plays at perverting all of these distinctions. (29)
-
-2. Yet we *must* be able to identify a fundamental distinction between fiction and testimony.
+1. We are unable to identify a fundamental distinciton between fiction and testimony; we are unable to reduce fiction to testimony or testimony to fiction.
+2. Yet we *must* be able to identify a fundamental distinction between fiction and testimony, or at least we think we do.
 3. We are therefore caught between two impossibilities: we assert that there is a distinction and try to find it (and be wrong), or we decide not to decide, deferring the question to exist in a state of *abidance* [demeurance]. We *abide by* this fundamental inability to choose, this question in suspension.
+
+# When a testifying witness, whether or not he is explicitly under oath, appeals to the faith of the other by engaging himself to tell the truth - no judge will accept that he should shirk his responsibility ironically by declaring or insinuating: what I am telling you here retains the status of a literary fiction. And yet, if the testimonial is by law irreducible to the fictional, there is no testimony that does not structurally imply in itself the possibility of fiction, simulacra, dissimulation, lie, perjury - that is to say, the possibility of literature, of the innocent or perverse literature that innocently plays at perverting all of these distinctions. *If this possibility that it seems to prohibit were effectively excluded, if testimony thereby became proof, information, certainty, or archive, it would lose its function as testimony.* (29, emphasis added)
+
+Here Derrida is saying that the value of testimony resides not in any essential truth of the witness' words; its value is in the "faith of the other," the shared belief in the truth of what they are saying. And this shared belief is only possible against a backdrop of untruth, if the witness has the ability to lie or create fiction in the court. The witness when called to testify does not say "let me tell you a story." They commit to speak the truth of their experience, and their testimony is *made true* against the haunting potential of the lie. If we were to take one's testimony as absolute proof, we would open ourselves to being fooled should the witness choose to lie or, if they are telling the truth, there is no longer an act of trust between the witness and the audience. Whence, then, comes our belief in the truth?
+
+# Thus an impossible limit. Untenable. This limit permanently [a demeure] swears testimony to secrecy; it enjoins testimony to remain [demeurer] secret, even where it makes manifest and public. I can only testify, in the strict sense of the word, from the instant when no one can, in my place, testify to what I do. (30)
+
+The irreducibility of testimony to fiction results in an uncomfortable fact: part of the act of *making truth* depends on the witness holding their testimony in secret; they cannot share their testimony until the *instant* they are called to speak. Truth demands rigour, consistency, and human memory changes over time. How can we trust a truth that changes every time it is spoken? Thus the testimony is confined to the instant - it happens in a very particular place and time, and once spoken, it is done.
+
+Derrida identifies "a singlular testimonial alliance of the secret and the instant" (30). The act of testimony is bound to secrecy and expressed, made public, in an instant. 
+
+# The engagement to keep secret is a testimony. The secret assumes not only that there should be some witness, be it, as one says, to share in a secret, but it assumes that the testimony will not simply consist in knowing or making known a secret, in sharing it, but in engaging oneself, in an implicit or explicit manner, to keeping the secret. (32)
+
+As in testimony, the act of keeping a secret implies an act of faith, of trust, on the part of some other to whom you have promised to keep the secret. Again there is the potential for dishonesty; you can reveal the secret to someone else but say to your witness that you have revealed nothing. Keeping a secret, like testimony, is an act of *making true* through faith against the ever-present possibility of the lie.
+
+# Testimony seems to presuppose the instance of the instant that, at that very instant however, it destroys. It destroys it as if it were destroying its own condition of possibility.
+
+If testimony is the act of taking one's private experience, the secret of one's experience, and placing it before the public dressed as truth, the secret is destroyed at the instant the testimonial is given. Private experience becomes public fact.
 
 In other words, we are given an impossible choice:
 - The first option is to make a decision: either fiction and testimony are fundamentally different from one another, and we can clearly say that a given text is one or the other, or they are fundamentally the same thing, and we can make no solid claims as to their distinction.
