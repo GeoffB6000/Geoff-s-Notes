@@ -5,7 +5,7 @@
 #### 06-02-2019
 
 ## Intinerary
-1. The Purpose of *Demeure*
+1. Purpose
 2. *Fiction and Testimony*
 3. *Passions of Literature*
 4. Discussion
@@ -36,13 +36,13 @@ In other words, we are faced with an impossible choice:
 - The first option is to make a decision: either fiction and testimony are fundamentally different from one another, and we can clearly say that a given text is one or the other, or they are fundamentally the same thing, and we can make no solid claims as to their distinction.
 - The second option is to avoid choosing between the above two options, to commit to not having an answer.
 
-We choose neither of the above options, and thus commit to not having an answer *again*. Given the consequences of either finding or not finding the borderline between fiction and testimony, truth and untruth, is it better to be wrong or to not know at all? We don't know! Welcome to the abode. We cannot exist in such a state of severe indecision, but here we are anyway.
+We choose neither of the above options, and thus commit to not having an answer *again*. Given the consequences of either finding or not finding the borderline between fiction and testimony, truth and untruth, is it better to be wrong or to not know at all? We don't know! Welcome to the abode [demeure]. We cannot exist in such a state of severe indecision, but here we are anyway.
 
-This question extends beyond *fiction* and *testimony*. *Dichtung und Wahrheit*, Derrida notes, are not fiction and testimony. The abiding question, the question we abide by, concerns nothing less than lies and truth, specifically autobiographical lies and truth. For Derrida, *The Instant of My Death* provides a lens through which the double impossibility becomes incandescent, impossible to ignore, begging for examination. Blanchot has lit a flare right at the border between fiction and testimony, calling attention to its porousness.
+This question extends beyond *fiction* and *testimony*. *Dichtung und Wahrheit*, Derrida notes, are not fiction and testimony. The abiding question, the question we abide by, concerns nothing less than lies and truth, specifically autobiographical lies and truth in this instance. For Derrida, *The Instant of My Death* provides a lens through which the double impossibility becomes incandescent, impossible to ignore, begging for examination. Blanchot has lit a flare right at the border between fiction and testimony, calling attention to its porousness.
 
 # If, always in irreverent homage to Goethe, *truth* becomes *testimony* here, it is perhaps because, as in *Dichtung und Wahrheit*, it will often be a question today of lies and truth: more precisely, of the biographical or autobiographical truthfulness of a witness who speaks of himself and claims to be recounting not only his life but his death, his quasi-resurrection, a sort of Passion - at the limits of literature. (17)
 
-This is the problem: how do we understand death as described in Blanchot's testimony/fiction? Are we to take his description as a true account of his experience? How do we reconcile this encounter with death, this concept of death, with what we know or believe to be true? How can we take Blanchot at his word when he tells us about his death before he has actually died? As a way to help answer this, Derrida playfully slides Goethe's *Dichtung und Wahrheit* (his autobiography, translated as "Poetry and Truth" or "Fiction and Truth") in front of us as a tool for understanding the relationship between fiction and truth in the context of autobiographical writing. 
+This is the problem: what is Maurice Blanchot talking about when he describes the instant of his death? Are we to take his description as a true account of his experience? How do we reconcile this encounter with death, this concept of death, with what we know or believe to be true? How can we take Blanchot at his word when he tells us about his death before he has actually died? Is this testimony, or fiction? As a way to help answer this, Derrida playfully slides Goethe's *Dichtung und Wahrheit* (his autobiography, translated as "Poetry and Truth" or "Fiction and Truth") in front of us as a tool for understanding the relationship between fiction and truth in the context of autobiographical writing. 
 
 ## As a scientist [Goethe] desired to picture his life as developing stage by stage “according to those laws which we observe in the metamorphosis of the plants.” As a historian he portrayed the general conditions of the times and revealed the relations between them and the individual. As an artist he did not feel tied down to facts for their own sake, but selects those that were of significance and moulded them so that they might become parts of a work of art. In the much-discussed title the word 'Poetry' [*Dichtung*] refers primarily to the artistic form of the work. (Ewald Eisenhardt, "Poetry and Truth". *The Encyclopedia Americana*)
 
@@ -76,7 +76,7 @@ So is *The Instant of My Death* fiction or testimony? Or how does it cause these
 
 # The two die but he is dead, I survive, he survived, I am dead. If both die, which one remains to survive to say it? (66)
 
-The Blanchot who relates this story of the young man both is and is not that young man. He was, he might have been, once upon a time, but Blanchot now considers himself to be separate from this memory. *Blanchot* cannot testify to the instant of his own death, but still he must speak the truth of what he knows, what he experienced, somehow. He does this by creating this other person, this young man, this imagined figure who was there and who *could* testify to the things Blanchot describes. But we are separated from this person by fifty years, by death, and all we have are words. Fiction or testimony? Truth or lie? Does it matter?
+The Blanchot who relates this story of the young man both is and is not that young man. He was, he might have been, once upon a time, but Blanchot now considers himself to be separate from this memory. *Blanchot* cannot testify to the instant of his death, but still he must speak the truth of what he knows, what he experienced, somehow. He does this by creating this other person, this young man, this imagined figure who was there and who *could* testify to the things Blanchot describes. But we are separated from this person by fifty years, by death, and all we have are words. Fiction or testimony? Truth or lie? Does it matter?
 
 ![blank](white_space.png)
 
@@ -102,3 +102,8 @@ Derrida responds to the title of the event at which he is speaking: *Passions of
 ![blank](white_space.png)
           
 # In permitting the young man to walk away from his impending execution, is the Russian soldier "letting" him live or "making" him live? In other words, is the young man's salvation from death by death an exercise of sovereign power or biopolitical power? Is this distinction relevant or appropriate in the context of *The Instant of My Death?*
+
+
+![blank](white_space.png)
+
+# What is the purpose of Maurice Blanchot's "testimony" in the context he provides, of World War II, and/or in the context of biopolitics?
