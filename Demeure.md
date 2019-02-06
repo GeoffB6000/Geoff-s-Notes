@@ -74,9 +74,9 @@ Derrida responds to the title of the event at which he is speaking: *Passions of
 ## 4. Discussion
 
 # Beginning on page 26, Derrida lays out the "seven knotted trajectories" of Passion, which he asserts each animate *The Instant of My Death*. Do you agree that each of these Passions is present in the text? How do these Passions contribute to the "double impossibility" of fiction and testimony *The Instant of My Death* exemplifies? In other words, how to these Passions confuse fiction and testimony?
-
+ 
 # Derrida writes: "*Literature* is a Latin word. This belonging has never been simple: it is a belonging that travels, emigrates, works, and is translated. The Latin filiation is exported and bastardized beyond its boundaries and affinities but always within the vicinity of its borders." (20). How does the "Latin filiation" influence our understanding of Blanchot's death, or Blanchot's death as deconstructed by Derrida?
-
+          
 # Is there a consonance between Blanchot's death, or Derrida's explanation of Blanchot's death, and the biopolitical power to "make live and let die?" Can we find other examples in *Demeure* of this compulsion to *make* something happen in the midst of its omnipresent, abiding antithesis? Given Derrida's conflation/combination of secrecy and testimony on the basis of their common properties, can we similarly conflate life and truth in the context of testimony? "Literature and death, truth and death: this is the subject." (22)
-
+          
 # In permitting the young man to walk away from his impending execution, is the Russian soldier "letting" him live or "making" him live? In other words, is the young man's salvation from death by death an exercise of sovereign power or biopolitical power? Is this distinction relevant or appropriate in the context of *The Instant of My Death?*
