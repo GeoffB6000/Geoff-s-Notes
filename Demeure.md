@@ -66,7 +66,7 @@ Derrida identifies "a singlular testimonial alliance of the secret and the insta
 
 As in testimony, the act of keeping a secret implies an act of faith, of trust, on the part of some other to whom you have promised to keep the secret. Again there is the potential for dishonesty; you can reveal the secret to someone else but say to your witness that you have revealed nothing. Keeping a secret, like testimony, is an act of *making true* through faith against the ever-present possibility of the lie.
 
-# Testimony seems to presuppose the instance of the instant that, at that very instant however, it destroys. It destroys it as if it were destroying its own condition of possibility.
+# Testimony seems to presuppose the instance of the instant that, at that very instant however, it destroys. It destroys it as if it were destroying its own condition of possibility. (32)
 
 If testimony is the act of taking one's private experience, the secret of one's experience, and placing it before the public dressed as truth, the secret is destroyed at the instant the testimonial is given. Private experience becomes public fact. The testimonial, which as we recall depends on the preservation of one's secret experience until the instant of speech, can never again be given as testimony, precisely because the experience no longer fully belongs to the witness. This is not *my* truth, it is *our* truth.
 
