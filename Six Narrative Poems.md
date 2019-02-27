@@ -17,7 +17,7 @@ At Liverpool
 ## Mr. Samuel Aspinwall
 ## Miss Bacon
 ## Mr. John Bailey
-1751 – 1819. Mathematician & land surveyor
+1751 – 1819. Mathematician & land surveyor?
 ## Mr. John Banks
 ## Mr. Baptiste
 ## Miss Barrow
@@ -214,6 +214,7 @@ Rebeca Eleanora Lewes
 ## Richard Naylor, Esq.
 ## Mr. J. Nelson
 ## Rev. ___ Newton
+John Newton, repentant former slave trader turned pastor?
 ## Niss Nissen, Esq.
 ## Mr. Norris
 William Norris, antiquary?
@@ -347,3 +348,7 @@ Liverpool
 “Henry Zinck, of Liverpool, merchant” BANKRUPT as of 1784 according to The European Magazine, and London Review, Volume 5 https://books.google.ca/books?id=4VE3AAAAMAAJ&pg=PA159&lpg=PA159&dq=Henry+Zinck,+Esq.&source=bl&ots=jkUzOajC2j&sig=ACfU3U1Tzu_yCyxWxj49z3_4cbMNN7iVuw&hl=en&sa=X&ved=2ahUKEwiKz7iv9ZXgAhWJyIMKHXW8CCIQ6AEwAnoECAcQAQ#v=onepage&q=Henry%20Zinck%2C%20Esq.&f=false
 
 
+# Context
+[The Anti-Slavery Society](https://friendsoftheearth.uk/sites/default/files/downloads/campaigning-change-lessons-from-history-anti-slavery-101813.pdf)
+Six Narrative Poems was published the same year the Society For Effecting the Abolition of the Slave Trade launched its public campaign
+[William Wilberforce](https://www.britannica.com/biography/William-Wilberforce#ref140573)
