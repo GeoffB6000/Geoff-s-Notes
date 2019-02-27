@@ -350,5 +350,7 @@ Liverpool
 
 # Context
 [The Anti-Slavery Society](https://friendsoftheearth.uk/sites/default/files/downloads/campaigning-change-lessons-from-history-anti-slavery-101813.pdf)
+
 Six Narrative Poems was published the same year the Society For Effecting the Abolition of the Slave Trade launched its public campaign
+
 [William Wilberforce](https://www.britannica.com/biography/William-Wilberforce#ref140573)
