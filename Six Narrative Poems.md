@@ -193,7 +193,10 @@ Rebeca Eleanora Lewes
 ## Mr. Mac Kenna
 ## Thomas Mainwaring, Esq.
 ## Mr. Manesty
+Samuel Manesty, merchant, slaver, and diplomat? 1758-1812
+Liverpool
 ## Mrs. Manesty
+Maria Anne 1770/1-1835
 ## Mr. Ayton Marlin
 ## Messrs. P. and E. Marrow
 ## Mr. G. Marsden
@@ -214,7 +217,9 @@ Rebeca Eleanora Lewes
 ## Richard Naylor, Esq.
 ## Mr. J. Nelson
 ## Rev. ___ Newton
-John Newton, repentant former slave trader turned pastor?
+John Newton, repentant former slave trader turned pastor
+Tide surveyor in Liverpool
+Connections: Joseph Manesty
 ## Niss Nissen, Esq.
 ## Mr. Norris
 William Norris, antiquary?
@@ -354,3 +359,7 @@ Liverpool
 Six Narrative Poems was published the same year the Society For Effecting the Abolition of the Slave Trade launched its public campaign
 
 [William Wilberforce](https://www.britannica.com/biography/William-Wilberforce#ref140573)
+
+# Other Stuff
+
+
