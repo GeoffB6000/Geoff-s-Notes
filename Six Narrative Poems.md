@@ -65,6 +65,8 @@ At Liverpool
 ## Mr. John Culcheth
 ## Doctor Currie
 James Currie, surgeon
+
+Liverpool
 ## Mr. J. P. Dale
 ## Mr. William Dale
 ## Mr. Dalton
@@ -125,6 +127,7 @@ James Currie, surgeon
 ## Mr. Hayes
 ## William Hayley, Esq.
 Poet
+
 Connections: George Romney
 ## Mr. Heath
 ## Mr. Henckell
@@ -173,6 +176,7 @@ Eliza Knipe’s father
 ## Mr. William Kniveton, Junior
 ## Sir Watkin Lewes, M. P.
 LORD MAYOR OF LONDON???
+
 1740-1821
 ## Lady Lewes
 Rebeca Eleanora Lewes
@@ -218,7 +222,9 @@ Maria Anne 1770/1-1835
 ## Mr. J. Nelson
 ## Rev. ___ Newton
 John Newton, repentant former slave trader turned pastor
+
 Tide surveyor in Liverpool
+
 Connections: Joseph Manesty
 ## Niss Nissen, Esq.
 ## Mr. Norris
@@ -258,19 +264,24 @@ Liverpool
 ## Mr. Edward Rogers
 ## George Romney, Esq.
 1734 – 1802. “London’s most fashionable portrait painter.”
+
 Connections: William Hayley
 ## Mr. Roscoe
 ## Mr. William Roscoe
 1753 – 1831. Patron of the arts & historian
+
 Liverpool
 ## Miss Eliza Rushton
 ## Mr. Edward Rushton
 1756 – 1814. Poet and slavery abolitionist
+
 Liverpool
+
 Connections: William Roscoe, James Currie
 ## Mr. Ross
 ## Mr. Sadler
 John Sadler? 1720-1789. Printer
+
 Liverpool
 ## Mr. Sale
 ## Mr. Schopenhauer
@@ -314,6 +325,7 @@ Liverpool
 ## Mrs. Turner
 ## Mr. Matthew Turner
 d. 1789. Surgeon + radical theologian
+
 Liverpool
 ## Mr. Venables
 ## Mrs. Venables
@@ -321,6 +333,7 @@ Liverpool
 ## Miss W____
 ## Mr. Richard Wainwright
 1757 – 1825. Musician.
+
 Liverpool
 ## Mr. Walker
 ## Mr. Wardle
@@ -350,11 +363,14 @@ Liverpool
 ## Rev. T. Wilson
 ## Mr. Ralph Wright
 ## Henry Zinck, Esq.
-“Henry Zinck, of Liverpool, merchant” BANKRUPT as of 1784 according to The European Magazine, and London Review, Volume 5 https://books.google.ca/books?id=4VE3AAAAMAAJ&pg=PA159&lpg=PA159&dq=Henry+Zinck,+Esq.&source=bl&ots=jkUzOajC2j&sig=ACfU3U1Tzu_yCyxWxj49z3_4cbMNN7iVuw&hl=en&sa=X&ved=2ahUKEwiKz7iv9ZXgAhWJyIMKHXW8CCIQ6AEwAnoECAcQAQ#v=onepage&q=Henry%20Zinck%2C%20Esq.&f=false
+“Henry Zinck, of Liverpool, merchant” BANKRUPT as of 1784 according to The European Magazine, and London Review, Volume 5 
+https://books.google.ca/books?id=4VE3AAAAMAAJ&pg=PA159&lpg=PA159&dq=Henry+Zinck,+Esq.&source=bl&ots=jkUzOajC2j&sig=ACfU3U1Tzu_yCyxWxj49z3_4cbMNN7iVuw&hl=en&sa=X&ved=2ahUKEwiKz7iv9ZXgAhWJyIMKHXW8CCIQ6AEwAnoECAcQAQ#v=onepage&q=Henry%20Zinck%2C%20Esq.&f=false
 
 
 # Context
 [The Anti-Slavery Society](https://friendsoftheearth.uk/sites/default/files/downloads/campaigning-change-lessons-from-history-anti-slavery-101813.pdf)
+
+[2](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/05/Society-for-Effecting-the-Abolition-of-the-Slave.pdf)
 
 Six Narrative Poems was published the same year the Society For Effecting the Abolition of the Slave Trade launched its public campaign
 
