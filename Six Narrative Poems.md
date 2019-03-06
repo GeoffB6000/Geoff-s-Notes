@@ -35,6 +35,7 @@ At Liverpool
 ## Mr. Booth
 ## Mr. J. Bowden
 ## Mr. John Braithwaite
+John Braithwaite the elder, engineer and diver? (1760-1818)
 ## Mr. Bretland
 ## Miss Briggs
 ## Mr. Edward Brock
@@ -114,7 +115,9 @@ Liverpool
 ## Mr. Greenhough
 ## Mr. Greenwood
 ## Mr. Griffith
+Richard Griffith, husband of Elizabeth Griffith?
 ## Mrs. Griffith
+Elizabeth Griffith, playwright? (1727-1793)
 ## Rev. J. Griffiths
 ## Mr. Joseph Hall
 ## Mrs. Hall
@@ -186,6 +189,7 @@ Rebeca Eleanora Lewes
 ## Miss Lear
 ## Mr. Boyce Ledwell
 ## Miss Theodosia Lewin
+Daughter of William Lewin, naturalist and painter?
 ## Rowland Lickbarrow, Esq.
 ## Miss Lightbody
 ## ___ Lind, Esq.
@@ -198,6 +202,7 @@ Rebeca Eleanora Lewes
 ## Thomas Mainwaring, Esq.
 ## Mr. Manesty
 Samuel Manesty, merchant, slaver, and diplomat? 1758-1812
+
 Liverpool
 ## Mrs. Manesty
 Maria Anne 1770/1-1835
@@ -218,6 +223,7 @@ Maria Anne 1770/1-1835
 ## Mr. J. More
 ## Mr. Morgan
 ## Mr. Mountain
+John Mountain, irish violinist? Married Rosemund Wilkinson, actress and singer, this year. They met in Liverpool.
 ## Richard Naylor, Esq.
 ## Mr. J. Nelson
 ## Rev. ___ Newton
@@ -231,7 +237,9 @@ Connections: Joseph Manesty
 William Norris, antiquary?
 ## Mr. Robert Norris
 1724 – 1791. Slave trader
+
 Connections: William Norris
+
 Liverpool
 ## Mr. John Okill
 ## Miss Ornerod
