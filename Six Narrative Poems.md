@@ -67,6 +67,8 @@ John Braithwaite the elder, engineer and diver? (1760-1818)
 ## Doctor Currie
 James Currie, surgeon
 
+Wrote against slavery
+
 Liverpool
 ## Mr. J. P. Dale
 ## Mr. William Dale
@@ -276,12 +278,14 @@ Liverpool
 Connections: William Hayley
 ## Mr. Roscoe
 ## Mr. William Roscoe
-1753 – 1831. Patron of the arts & historian
+1753 – 1831. Patron of the arts, historian, slavery abolitionist
 
 Liverpool
 ## Miss Eliza Rushton
 ## Mr. Edward Rushton
 1756 – 1814. Poet and slavery abolitionist
+
+[The Collected Writings of Edward Rushton](https://books.google.ca/books?id=ghTxDQAAQBAJ&pg=PA6&lpg=PA6&dq=literary+circles+in+liverpool+1780s&source=bl&ots=kcnVFg2kD0&sig=ACfU3U3j4OYN0B6pwjPNU4z3C7Qdbfb4rA&hl=en&sa=X&ved=2ahUKEwicht_Mu__gAhUn2oMKHdcdBzsQ6AEwFnoECAkQAQ#v=onepage&q=Currie&f=false)
 
 Liverpool
 
@@ -384,6 +388,18 @@ Six Narrative Poems was published the same year the Society For Effecting the Ab
 
 [William Wilberforce](https://www.britannica.com/biography/William-Wilberforce#ref140573)
 
+[Eliza Knipe](http://www.oxforddnb.com.proxy.library.carleton.ca/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-5736?rskey=KyW0PX&result=1)
+
 # Other Stuff
 
+Six Narrative Poems is Knipe's third book. At this point she is four years into her career as a poet. Who subscribed to this book and why?
 
+- relatives (Mr. and Mrs. Knipe)
+
+- literary enthusiasts? (printers, booksellers)
+
+- fans of Sir Joshua Reynolds?
+
+- anti-slavery activists (Edward Rushton, Rev. John Newton, William Roscoe)
+
+- slavers (Norris, Manesty, Newton(formerly))
