@@ -55,6 +55,8 @@ John Braithwaite the elder, engineer and diver? (1760-1818)
 ## Mr. John Clarke
 ## Miss Jane Clarke
 ## Mrs. Clarkson
+Potentially Anne Clarkson, mother of slavery abolitionist Thomas Clarkson
+
 ## Mr. J. W. Close
 ## Mr. Cook
 ## Mr. John Cope
@@ -410,4 +412,10 @@ Six Narrative Poems is Knipe's third book. At this point she is four years into 
 
 - slavers (Norris, Manesty, Newton(formerly))
 
-THESIS: A significant part of the interest in Knipe's Six Narrative Poems can be traced to one poem, "Atomboka and omaza," which interacted with the increasingly-heated discourse surrounding slavery at the time, focused particularly in Liverpool (where Knipe lived) and London (where the book was published). Through "Atomboka and omaza," Knipe expresses sympathy for the plight of victims of the slave trade, allying her with abolitionist figures such as Edward Rushton, William Roscoe, and Reverend John Newton among others. (Find source:) There was a significant tendency in the artistic communities in Liverpool to condemn the slave trade, and Knipe's poem scratched that itch.
+THESIS: A significant part of the interest in Knipe's Six Narrative Poems can be traced to one poem, "Atomboka and omaza," which interacted with the increasingly-heated discourse surrounding slavery at the time, focused particularly in Liverpool (where Knipe lived) and London (where the book was published). Through "Atomboka and omaza," Knipe expresses sympathy for the plight of victims of the slave trade, allying her with abolitionist figures such as Edward Rushton, William Roscoe, and Reverend John Newton among others. (Find source:) There was a significant tendency in the artistic communities in Liverpool to condemn the slave trade, and Knipe's poem scratched that itch. Things we need:
+
+- a brief history/context for Liverpool in the 1780s
+- literary groups (Rushton, Roscoe, Currie)
+- other artists and literary figures (George Romney, William Hayley)
+- context on slavery and abolition (Society for Effecting the Abolition of the Slave Trade)
+- summary of and quotations from "Atomboka and omaza"
