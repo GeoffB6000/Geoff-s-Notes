@@ -233,7 +233,7 @@ John Newton, repentant former slave trader turned pastor
 
 Tide surveyor in Liverpool
 
-Connections: Joseph Manesty
+Connections: Joseph Manesty, William Wilberforce (not on list)
 ## Niss Nissen, Esq.
 ## Mr. Norris
 William Norris, antiquary?
@@ -281,6 +281,8 @@ Connections: William Hayley
 1753 – 1831. Patron of the arts, historian, slavery abolitionist
 
 Liverpool
+
+Connections: Edward Rushton, James Currie
 ## Miss Eliza Rushton
 ## Mr. Edward Rushton
 1756 – 1814. Poet and slavery abolitionist
@@ -390,16 +392,22 @@ Six Narrative Poems was published the same year the Society For Effecting the Ab
 
 [Eliza Knipe](http://www.oxforddnb.com.proxy.library.carleton.ca/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-5736?rskey=KyW0PX&result=1)
 
+[Liverpool](http://www.liverpoolmuseums.org.uk/podcasts/transcripts/derby_roey_sweet.aspx)
+
+Poems in the 18th century are like music today
+
 # Other Stuff
 
 Six Narrative Poems is Knipe's third book. At this point she is four years into her career as a poet. Who subscribed to this book and why?
 
-- relatives (Mr. and Mrs. Knipe)
+- relatives (Mr. and Mrs. Knipe) and friends.
 
-- literary enthusiasts? (printers, booksellers)
+- literary enthusiasts? (printers, booksellers, poets)
 
 - fans of Sir Joshua Reynolds?
 
 - anti-slavery activists (Edward Rushton, Rev. John Newton, William Roscoe)
 
 - slavers (Norris, Manesty, Newton(formerly))
+
+THESIS: A significant part of the interest in Knipe's Six Narrative Poems can be traced to one poem, "Atomboka and omaza," which interacted with the increasingly-heated discourse surrounding slavery at the time, focused particularly in Liverpool (where Knipe lived) and London (where the book was published). Through "Atomboka and omaza," Knipe expresses sympathy for the plight of victims of the slave trade, allying her with abolitionist figures such as Edward Rushton, William Roscoe, and Reverend John Newton among others. (Find source:) There was a significant tendency in the artistic communities in Liverpool to condemn the slave trade, and Knipe's poem scratched that itch.
