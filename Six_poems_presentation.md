@@ -10,7 +10,7 @@ Sold by C. Dilly: (Charles Dilly?)
 Dedicated to Sir Joshua Reynolds At Liverpool
 
 # Introduction
-## The Life of Eliza Knipe/Elizabeth Cobbold
+## Eliza Knipe/Elizabeth Cobbold
 ## "Thesis"
 ## Atomboka and omaza
 ## Liverpool context
@@ -72,7 +72,7 @@ Sir Watkin Lewes, C. Taylor, Esq., _ Williams, Esq.
 ### Mr. John Braithwaite
 ### Mrs. Clarkson
 ### Mrs. Griffith
-### Miss Theodisia Lewin
+### Miss Theodosia Lewin
 ### Mr. William Miller
 ### Mr. Sadler
 ### Mr. Matthew Turner
