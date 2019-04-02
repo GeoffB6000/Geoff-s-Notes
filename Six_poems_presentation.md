@@ -90,10 +90,20 @@ Sir Watkin Lewes, C. Taylor, Esq., _ Williams, Esq.
 # Subscribers of Interest
 ## Public Figures
 ### Sir Watkin Lewes, M. P. and Lady Lewes
+Sir Watkin Lewes (1740-1821), Lord Mayor of London, and Lady Rebecca Eleanora Lewes
+
+Evans, John James. "LEWES, Sir WATKIN (1740 - 1821), lord mayor of London" *Dictionary of Welsh Biography*
 ## The literary circle of Rushton, Roscoe, and Currie
 ### Mr. Edward Rushton
+Edward Rushton (1756–1814), poet and slavery abolitionist in Liverpool
+
 ### Mr. William Roscoe
+William Roscoe (1753–1831), patron of the arts, historian, slavery abolitionist in Liverpool
+
 ### Doctor Currie
+James Currie (1756-1805), surgeon
+
+DeLacy, Margaret. "Currie, James." *Oxford Dictionary of National Biography*. 2004. Web
 ## Other artists and Literary Figures
 ### Willaim Hayley, Esq.
 ### George Romney, Esq.
@@ -102,7 +112,7 @@ Sir Watkin Lewes, C. Taylor, Esq., _ Williams, Esq.
 ## Slave traders
 ### Mr. Robert Norris
 ### Mr. Manesty
-## Other cool people
+## Misc.
 ### Mr. John Braithwaite
 John Braithwaite the elder (bap. 1760, d. 1818), engineer and diver
 
@@ -128,8 +138,22 @@ William Miller (c. 1740–c. 1810), painter.
 
 "He specialized in history paintings but also exhibited portraits, landscapes, and genre subjects."
 
-O'Donoghue, F.M and Hargraves, Matthew. "Miller, William." *Oxford Dictionary of National Biography*. 2009. Web
+O'Donoghue, F.M and Hargraves, Matthew. "Miller, William." *Oxford Dictionary of National Biography*. 2004. Web
 ### Mr. Sadler
+John Sadler (1720-1789), printer based in Liverpool.
+
+"Sadler, John." *Oxford Dictionary of National Biography*. 2004. Web
 ### Mr. Matthew Turner
+Matthew Turner (d. 1789), chemist, radical theologian, surgeon, and teacher based in Liverpool.
+
+"His activities and accomplishments were numerous and diverse, though he is best remembered for his relationship with Wedgwood and his theological dispute with Priestley."
+
+Carlyle, E.I. and Knox, Kevin C. "Turner, Matthew." *Oxford Dictionary of National Biography*. 2004. Web
 ### Mr. Richard Wainwright
+Richard Wainwright (bap. 1757, d. 1825), chorister and musician of multiple instruments in Liverpool.
+
+"He was also apparently a cellist at the Manchester Gentlemen's Concerts, and may have been both the Mr Wainwright who led many local performances of Handel's oratorios as first violinist, and the one who at the Liverpool and Manchester music festivals between 1784 and 1789 variously played in the orchestra, played the organ, and conducted."
+
+Drage, Sally. "Wainwright family." *Oxford Dictionary of National Biography*. 2004. Web
 ### Henry Zinck, Esq.
+"Henry Zinck, of Liverpool, merchant" listed in the Bankrupts section of "Monthly Chronicle" within *The European Magazine, and London Review,* Volume 5
