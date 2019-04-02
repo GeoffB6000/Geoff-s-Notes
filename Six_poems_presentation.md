@@ -17,28 +17,41 @@ Dedicated to Sir Joshua Reynolds At Liverpool
 ## The Anti-Slavery Society
 # Subscription List
 ## Total
-311
+312
 ## Gender
-Male: 229
+Male: 230 (74%)
 
-Female: 82
-### Mr.
-186
+Female: 82 (26%)
+### Mr. & Messrs.
+188 (60%)
 ### Esq.
-20
+20 (6%)
 ### Miss
-42
+42 (13%)
 ### Mrs.
-38
+38 (12%)
 ### Lady
-1: Lady Kent
+2 (0.6%)
+
+Lady Kent, Lady Lewes
 ## Reverends
-15
+15 (5%)
 ## Captains
-2: Captains Preston and Stratton
+2 (0.6%)
+
+Captains Preston and Stratton
 ## Ensigns
-1: Ensign Jones
+1 (0.3%)
+
+Ensign Jones
 ## Doctors
-1: Doctor Currie
+1 (0.3%)
+
+Doctor Currie
 ## M. P.
-3: Sir Watkin Lewes, C. Taylor, Esq., _ Williams, Esq.
+3 (1%)
+
+Sir Watkin Lewes, C. Taylor, Esq., _ Williams, Esq.
+
+# Subscribers of Interest
+
