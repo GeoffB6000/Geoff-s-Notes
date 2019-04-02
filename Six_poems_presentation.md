@@ -7,9 +7,14 @@ Published in: London, M.DCC.LXXXVII. [1787]
  
 Sold by C. Dilly
 
-Dedicated to Sir Joshua Reynolds At Liverpool
+Dedicated to Sir Joshua Reynolds
+
+![blank](white_space.png)
 
 # Introduction
+
+![title page](Knipe_title_page.png)
+
 ## Eliza Knipe/Elizabeth Cobbold
 1765 - 1824
 
@@ -21,16 +26,28 @@ Dedicated to Sir Joshua Reynolds At Liverpool
 
 "From 1806 the highlight of each year at Cliff House was the valentine party for which Cobbold employed her greatest skill in advance: designing and making up to eighty scissors-cut valentines to present to each of the unmarried guests and mounting them with an appropriate poem on red or blue paper."
 
-"From 1806 the highlight of each year at Cliff House was the valentine party for which Cobbold employed her greatest skill in advance: designing and making up to eighty scissors-cut valentines to present to each of the unmarried guests and mounting them with an appropriate poem on red or blue paper."
+"The valentine parties ran until 1822 when Elizabeth Cobbold was prevented by illness from holding one as usual, and two years later she was struck down by 'an alarming illness' in July, which, returning in October, rendered her unconscious for the week before she died on 17 October 1824."
 
 "Elizabeth's portrait conveys a comfortable, lovable personality; posthumous tributes praised her very diverse skills, but it is only the productions of her scissors that have enduring merit."
 
-Blatchley, J.M. "Cobbold [née Knipe; other married name Clarke], Elizabeth." *Oxford Dictionary of National Biography*. 2014. Web 
+Blatchley, J.M. "Cobbold [née Knipe; other married name Clarke], Elizabeth." *Oxford Dictionary of National Biography*. 2014. Web
+
+![blank](white_space.png)
 ## "Thesis"
 While Knipe is best known as a cut paper artist, her collection of *Six Narrative Poems* deserves critical attention for its interaction with the movement to abolish slavery in Liverpool.
+
+![preface](Knipe_preface.png)
+
+![blank](white_space.png)
 ## Atomboka and omaza
+
+![text](Knipe_atomboka_and_omaza.png)
+
+![blank](white_space.png)
 ## Liverpool context
+![blank](white_space.png)
 ## The Anti-Slavery Society
+![blank](white_space.png)
 # Subscription List
 ## Total
 312
@@ -69,6 +86,7 @@ Doctor Currie
 
 Sir Watkin Lewes, C. Taylor, Esq., _ Williams, Esq.
 
+![blank](white_space.png)
 # Subscribers of Interest
 ## Public Figures
 ### Sir Watkin Lewes, M. P. and Lady Lewes
