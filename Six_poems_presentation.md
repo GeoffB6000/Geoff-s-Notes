@@ -5,13 +5,29 @@ Published in: London, M.DCC.LXXXVII. [1787]
 
 83 pages.
  
-Sold by C. Dilly: (Charles Dilly?) 
+Sold by C. Dilly
 
 Dedicated to Sir Joshua Reynolds At Liverpool
 
 # Introduction
 ## Eliza Knipe/Elizabeth Cobbold
+1765 - 1824
+
+"In 1783 the family was in Manchester and Elizabeth's first collection of poetry was published there. She met Sir Joshua Reynolds in a London bookshop and dedicated her third work, *Six Narrative Poems*, to him in 1787; four years later, when her fourth work appeared, the Knipes were at Liverpool and there Elizabeth married William Clarke (bap. 1731, d. 1791) at St Ann's Church on 16 November 1790."
+
+"Her second husband, John Cobbold (1746–1835), was a prosperous Ipswich brewer and banker, a pillar of the established church and the blue party and only twenty years her senior."
+
+"An engaging speaker, Elizabeth founded, presided over, and raised funds for her Ipswich charities: the lying-in charity, the Society for Clothing the Infant Poor, and the annual charity bazaar."
+
+"From 1806 the highlight of each year at Cliff House was the valentine party for which Cobbold employed her greatest skill in advance: designing and making up to eighty scissors-cut valentines to present to each of the unmarried guests and mounting them with an appropriate poem on red or blue paper."
+
+"From 1806 the highlight of each year at Cliff House was the valentine party for which Cobbold employed her greatest skill in advance: designing and making up to eighty scissors-cut valentines to present to each of the unmarried guests and mounting them with an appropriate poem on red or blue paper."
+
+"Elizabeth's portrait conveys a comfortable, lovable personality; posthumous tributes praised her very diverse skills, but it is only the productions of her scissors that have enduring merit."
+
+Blatchley, J.M. "Cobbold [née Knipe; other married name Clarke], Elizabeth." *Oxford Dictionary of National Biography*. 2014. Web 
 ## "Thesis"
+While Knipe is best known as a cut paper artist, her collection of *Six Narrative Poems* deserves critical attention for its interaction with the movement to abolish slavery in Liverpool.
 ## Atomboka and omaza
 ## Liverpool context
 ## The Anti-Slavery Society
