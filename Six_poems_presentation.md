@@ -104,10 +104,31 @@ Sir Watkin Lewes, C. Taylor, Esq., _ Williams, Esq.
 ### Mr. Manesty
 ## Other cool people
 ### Mr. John Braithwaite
-### Mrs. Clarkson
+John Braithwaite the elder (bap. 1760, d. 1818), engineer and diver
+
+- Made a living salvaging shipwrecks using his family's diving machine
+
+"Between August 1787 and February 1791 Braithwaite brought up goods from the East Indiaman Hartwell, wrecked after a mutiny on her maiden voyage in 1787 on the Rifona Reef off Boavista, one of the Cape Verde Islands. As well as facing technical challenges the Braithwaites here encountered armed opposition from American privateers seeking to raid the salvaged cargo... The tiny Endeavour, lightly armed and with a crew of only nine, engaged the five pirate vessels for over an hour, finally driving them off at the cost of only minor injuries. Braithwaite returned with £38,000 in Spanish dollars, 7000 pigs of lead, and 360 boxes of tin. He also brought back Eliza or Elizabeth Doile (c.1775–1814), a Verdian planter's daughter, and they married at St Pancras parish church on 3 June 1794, the anniversary of the Boavista skirmish."
+
+Braithwaite, William Ronald. "Braithwaite, John, the elder." *Oxford Dictionary of National Biography*. 2004. Web
 ### Mrs. Griffith
-### Miss Theodosia Lewin
+Elizabeth Griffith (1727–1793), playwright and novelist
+
+- had a spirited correspondence with Richard Griffith (unrelated), who had charm and connections but no money. They married in secret despite the financial difficulties involved, and Elizabeth pushed herself to publish plays and novels in London.
+
+"It was at this point of financial desperation that the Griffiths decided to publish their courtship letters under fictional names. A Series of Genuine Letters between Henry and Frances appeared in 1757, causing an immediate literary sensation. As a model example of sentimental romance blended with witty exchange and moral bite, the letters established the fame but not the fortune of their authors."
+
+"While Griffith's writing is spritely and shows a sure sense of dramatic pace, critical reactions were extremely harsh. The London theatrical establishment resented the audacity of a woman playwright's claims for respect and admiration. If Griffith was to be able to support her children as a playwright, she would have to conform to contemporary sexual stereotypes rather than challenge the orthodoxy."
+
+From Griffith's own preface to *Novellettes, selected for the use of young ladies and gentlemen, written by Dr Goldsmith, Mrs Griffith …*: "Mrs. GRIFFITH, the ornament and pride of her country, has strove to open the flood-gate of Literature to her own Sex, and purifying the stream from the filth with which it was impregnated to make it guide [sic] with meandering invitation through the vallies of Britain. She is one of the many examples in the present day, that have served to explode the illiberal assertion that Female genius is inferior to Male."
+
+Eger, Elizabeth. "Griffith, Elizabeth." *Oxford Dictionary of National Biography*. 2009. Web
 ### Mr. William Miller
+William Miller (c. 1740–c. 1810), painter.
+
+"He specialized in history paintings but also exhibited portraits, landscapes, and genre subjects."
+
+O'Donoghue, F.M and Hargraves, Matthew. "Miller, William." *Oxford Dictionary of National Biography*. 2009. Web
 ### Mr. Sadler
 ### Mr. Matthew Turner
 ### Mr. Richard Wainwright
