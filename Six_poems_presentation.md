@@ -54,4 +54,27 @@ Doctor Currie
 Sir Watkin Lewes, C. Taylor, Esq., _ Williams, Esq.
 
 # Subscribers of Interest
-
+## Public Figures
+### Sir Watkin Lewes, M. P. and Lady Lewes
+## The literary circle of Rushton, Roscoe, and Currie
+### Mr. Edward Rushton
+### Mr. William Roscoe
+### Doctor Currie
+## Other artists and Literary Figures
+### Willaim Hayley, Esq.
+### George Romney, Esq.
+## Other Abolitionists
+### Rev. _ Newton
+## Slave traders
+### Mr. Robert Norris
+### Mr. Manesty
+## Other cool people
+### Mr. John Braithwaite
+### Mrs. Clarkson
+### Mrs. Griffith
+### Miss Theodisia Lewin
+### Mr. William Miller
+### Mr. Sadler
+### Mr. Matthew Turner
+### Mr. Richard Wainwright
+### Henry Zinck, Esq.
