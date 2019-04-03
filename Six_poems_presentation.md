@@ -61,7 +61,7 @@ National Museums Liverpool. "Transcript of 'Liverpool in the eighteenth century:
 ## The Anti-Slavery Society
 AKA The Society for Effecting the Abolition of the Slave Trade
 
-"in 1783, a group of Friends in London sent a petition to the House of Commons and sustained a modest campaign to insert anti-slave-trade pieces into the periodical press. Their efforts found little support, however, until they helped found a broader-based Society for Effecting the Abolition of the Slave Trade in 1787. This group included Anglicans, such as Rev. James Ramsay, who had denounced the slave trade based on his own experiences in the Caribbean. Early subscribers included evangelical members of the Clapham Sect, such as Tory MPs William Wilberforce and John Thornton. "
+"in 1783, a group of Friends in London sent a petition to the House of Commons and sustained a modest campaign to insert anti-slave-trade pieces into the periodical press. Their efforts found little support, however, until they helped found a broader-based Society for Effecting the Abolition of the Slave Trade in 1787. This group included Anglicans, such as Rev. James Ramsay, who had denounced the slave trade based on his own experiences in the Caribbean. Early subscribers included evangelical members of the Clapham Sect, such as Tory MPs William Wilberforce and John Thornton."
 
 Huzzey, Richard. "Britain's Anti-Slavery Campaigns, 1787-1838" Durham University. https://friendsoftheearth.uk/sites/default/files/downloads/campaigning-change-lessons-from-history-anti-slavery-101813.pdf
 
@@ -229,4 +229,4 @@ Matthew Turner (d. 1789), chemist, radical theologian, surgeon, and teacher base
 Carlyle, E.I. and Knox, Kevin C. "Turner, Matthew." *Oxford Dictionary of National Biography*. 2004. Web
 
 ### Henry Zinck, Esq.
-"Henry Zinck, of Liverpool, merchant" listed in the Bankrupts section of "Monthly Chronicle" within *The European Magazine, and London Review,* Volume 5
+"Henry Zinck, of Liverpool, merchant" listed in the Bankrupts section of "Monthly Chronicle" within *The European Magazine, and London Review,* Volume 5, 1784
