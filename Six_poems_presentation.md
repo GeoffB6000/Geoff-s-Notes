@@ -120,6 +120,13 @@ James Currie (1756-1805), surgeon
 "Currie's early life had made him hate bigotry, captivity, and slavery. In Liverpool he worked behind the scenes for abolition of the slave trade. With Roscoe he wrote a poem entitled *The African*, and for years he corresponded with William Wilberforce, supplying him with devastating information about the slave trade."
 
 DeLacy, Margaret. "Currie, James." *Oxford Dictionary of National Biography*. 2004. Web
+
+### Rev. _ Newton
+John Newton (1725-1807), slave trader, Church of England clergyman.
+
+"Newton has sometimes been accused of hypocrisy for holding strong religious convictions at the same time as being active in the slave trade, praying above deck while his human cargo was in abject misery below deck. He was not, however, within the orbit of evangelicals such as John Wesley, who had advanced views against slavery, until he had already left the sea. He was a typical European of his time. Later in life he had deep regrets and repented of his involvement in the traffic, supported William Wilberforce in his abolition crusade, gave evidence to the privy council, and wrote a tract supporting abolition, *Thoughts upon the African Slave Trade* (1787)."
+
+Hindmarsh, Bruce D. "Newton, John." *Oxford Dictionary of National Biography*. 2008. Web
 ## Other artists and Literary Figures
 ### Willaim Hayley, Esq.
 William Hayley (1745-1820), poet and biographer
@@ -139,10 +146,7 @@ Between 1776 and 1796 "Romney would remain, in terms of output, London's most fa
 "In the summer of 1776 Romney was introduced to the poet William Hayley. The two men quickly became close friends... John Romney later regarded Hayley as a bad influence on his father, but Hayley's company acted as a release for many of the suppressed tensions in Romney's life."
 
 Kidson, Alex. "Romney, George." *Oxford Dictionary of National Biography*. 2008. Web
-### Rev. _ Newton
-John Newton (1725-1807), slave trader - turned clergyman.
 
-Hindmarsh, Bruce D. "Newton, John." *Oxford Dictionary of National Biography*. 2008. Web
 ## Slave traders
 ### Mr. Robert Norris
 ### Mr. Manesty
