@@ -34,7 +34,7 @@ Blatchley, J.M. "Cobbold [née Knipe; other married name Clarke], Elizabeth." *O
 
 ![blank](white_space.png)
 ## "Thesis"
-While Knipe is best known as a cut paper artist, her collection of *Six Narrative Poems* deserves critical attention for its interaction with Liverpool's history in 1787, a year in which anti-slavery sentiment in Liverpool crystallized in the form of the Society for Effecting the Abolition of the Slave Trade.
+While Knipe is best known as a cut paper artist, her collection of *Six Narrative Poems* deserves critical attention for its interaction with Liverpool's history in 1787, a year in which anti-slavery sentiment in Liverpool crystallized in the form of the Society for Effecting the Abolition of the Slave Trade. Knipe's poem "Atomboka and omaza" enters the conversation by providing an emotional appeal against slavery. Knipe's condemnation of the slave trade through this poem is likely a factor in the appearance of several abolitionists on *Six Narrative Poems*' subscription list.
 
 ![preface](Knipe_preface.png)
 
@@ -57,6 +57,12 @@ National Museums Liverpool. "Transcript of 'Liverpool in the eighteenth century:
 
 ![blank](white_space.png)
 ## The Anti-Slavery Society
+AKA The Society for Effecting the Abolition of the Slave Trade
+
+"in 1783, a group of Friends in London sent a petition to the House of Commons and sustained a modest campaign to insert anti-slave-trade pieces into the periodical press. Their efforts found little support, however, until they helped found a broader-based Society for Effecting the Abolition of the Slave Trade in 1787. This group included Anglicans, such as Rev. James Ramsay, who had denounced the slave trade based on his own experiences in the Caribbean. Early subscribers included evangelical members of the Clapham Sect, such as Tory MPs William Wilberforce and John Thornton. "
+
+Huzzey, Richard. "Britain's Anti-Slavery Campaigns, 1787-1838" Durham University. https://friendsoftheearth.uk/sites/default/files/downloads/campaigning-change-lessons-from-history-anti-slavery-101813.pdf
+
 ![blank](white_space.png)
 # Subscription List
 ## Total
