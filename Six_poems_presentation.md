@@ -9,6 +9,8 @@ Sold by C. Dilly
 
 Dedicated to Sir Joshua Reynolds
 
+## Presentation by Geoffrey Bates, 100846572
+
 ![blank](white_space.png)
 
 # Introduction
