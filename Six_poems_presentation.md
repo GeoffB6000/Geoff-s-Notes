@@ -126,7 +126,24 @@ John Newton (1725-1807), slave trader, Church of England clergyman.
 
 "Newton has sometimes been accused of hypocrisy for holding strong religious convictions at the same time as being active in the slave trade, praying above deck while his human cargo was in abject misery below deck. He was not, however, within the orbit of evangelicals such as John Wesley, who had advanced views against slavery, until he had already left the sea. He was a typical European of his time. Later in life he had deep regrets and repented of his involvement in the traffic, supported William Wilberforce in his abolition crusade, gave evidence to the privy council, and wrote a tract supporting abolition, *Thoughts upon the African Slave Trade* (1787)."
 
-Hindmarsh, Bruce D. "Newton, John." *Oxford Dictionary of National Biography*. 2008. Web
+Hindmarsh, Bruce D. "Newton, John." *Oxford Dictionary of National Biography*. 2004. Web
+## Slave traders
+### Mr. Robert Norris
+Robert Norris (1724-1791), slave trader and author in Liverpool.
+
+"As a ship's captain in the slave trade, Norris made at least five voyages to Dahomey in west Africa between 1770 and 1777, on four of which (1770, 1772, 1773, and 1775) he also travelled inland, to visit the king of Dahomey's court. In 1779, with the disruption of shipping to Africa by the American War of Independence, he found himself unemployed, and set up as a blacksmith. In 1788, when a committee of the privy council was appointed to inquire into the slave trade, in response to agitation for its abolition, Norris was delegated to lay before it the views of the Liverpool trade; and his evidence was published as a pamphlet, *A Short Account of the African Slave Trade* (1788)."
+
+"Norris depicted Dahomey as a barbaric society, with especial emphasis on the practice of human sacrifice, as the basis for a moral defence of the slave trade, which was supposedly rescuing slaves from a worse fate within Africa."
+
+Law, Robert. "Norris, Robert." *Oxford Dictionary of National Biography*. 2004. Web
+### Mr. Manesty
+Samuel Manesty (1758-1812), merchant and diplomat.
+
+- son of Joseph Manesty, "a Liverpool merchant and slave trader who owned at least five Atlantic slave-trade ships" and in 1752 "recruited the future Church of England clergyman John Newton to command his slave ships the *Duke of Argyle* and the *African*"
+
+"Samuel Manesty was appointed a writer on the Bombay establishment of the East India Company in December 1778. Three years later he went to Basrah as assistant to the company's resident, William Digges Latouche (1747–1803). He became resident himself in 1784, replacing John Griffith. In Basrah, in or before 1785, he married a local woman, Maria Anne Saurius (1770/71–1835), daughter of a European father and an Armenian mother."
+
+Walsh, Robin P. "Manesty, Samuel." *Oxford Dictionary of National Biography*. 2004. Web
 ## Other artists and Literary Figures
 ### Willaim Hayley, Esq.
 William Hayley (1745-1820), poet and biographer
@@ -147,18 +164,6 @@ Between 1776 and 1796 "Romney would remain, in terms of output, London's most fa
 
 Kidson, Alex. "Romney, George." *Oxford Dictionary of National Biography*. 2008. Web
 
-## Slave traders
-### Mr. Robert Norris
-### Mr. Manesty
-## Misc.
-### Mr. John Braithwaite
-John Braithwaite the elder (bap. 1760, d. 1818), engineer and diver
-
-- Made a living salvaging shipwrecks using his family's diving machine
-
-"Between August 1787 and February 1791 Braithwaite brought up goods from the East Indiaman Hartwell, wrecked after a mutiny on her maiden voyage in 1787 on the Rifona Reef off Boavista, one of the Cape Verde Islands. As well as facing technical challenges the Braithwaites here encountered armed opposition from American privateers seeking to raid the salvaged cargo... The tiny Endeavour, lightly armed and with a crew of only nine, engaged the five pirate vessels for over an hour, finally driving them off at the cost of only minor injuries. Braithwaite returned with £38,000 in Spanish dollars, 7000 pigs of lead, and 360 boxes of tin. He also brought back Eliza or Elizabeth Doile (c.1775–1814), a Verdian planter's daughter, and they married at St Pancras parish church on 3 June 1794, the anniversary of the Boavista skirmish."
-
-Braithwaite, William Ronald. "Braithwaite, John, the elder." *Oxford Dictionary of National Biography*. 2004. Web
 ### Mrs. Griffith
 Elizabeth Griffith (1727–1793), playwright and novelist
 
@@ -177,6 +182,23 @@ William Miller (c. 1740–c. 1810), painter.
 "He specialized in history paintings but also exhibited portraits, landscapes, and genre subjects."
 
 O'Donoghue, F.M and Hargraves, Matthew. "Miller, William." *Oxford Dictionary of National Biography*. 2004. Web
+### Mr. Richard Wainwright
+Richard Wainwright (bap. 1757, d. 1825), chorister and musician of multiple instruments in Liverpool.
+
+"He was also apparently a cellist at the Manchester Gentlemen's Concerts, and may have been both the Mr Wainwright who led many local performances of Handel's oratorios as first violinist, and the one who at the Liverpool and Manchester music festivals between 1784 and 1789 variously played in the orchestra, played the organ, and conducted."
+
+Drage, Sally. "Wainwright family." *Oxford Dictionary of National Biography*. 2004. Web
+
+## Misc.
+### Mr. John Braithwaite
+John Braithwaite the elder (bap. 1760, d. 1818), engineer and diver
+
+- Made a living salvaging shipwrecks using his family's diving machine
+
+"Between August 1787 and February 1791 Braithwaite brought up goods from the East Indiaman Hartwell, wrecked after a mutiny on her maiden voyage in 1787 on the Rifona Reef off Boavista, one of the Cape Verde Islands. As well as facing technical challenges the Braithwaites here encountered armed opposition from American privateers seeking to raid the salvaged cargo... The tiny Endeavour, lightly armed and with a crew of only nine, engaged the five pirate vessels for over an hour, finally driving them off at the cost of only minor injuries. Braithwaite returned with £38,000 in Spanish dollars, 7000 pigs of lead, and 360 boxes of tin. He also brought back Eliza or Elizabeth Doile (c.1775–1814), a Verdian planter's daughter, and they married at St Pancras parish church on 3 June 1794, the anniversary of the Boavista skirmish."
+
+Braithwaite, William Ronald. "Braithwaite, John, the elder." *Oxford Dictionary of National Biography*. 2004. Web
+
 ### Mr. Sadler
 John Sadler (1720-1789), printer based in Liverpool.
 
@@ -187,11 +209,6 @@ Matthew Turner (d. 1789), chemist, radical theologian, surgeon, and teacher base
 "His activities and accomplishments were numerous and diverse, though he is best remembered for his relationship with Wedgwood and his theological dispute with Priestley."
 
 Carlyle, E.I. and Knox, Kevin C. "Turner, Matthew." *Oxford Dictionary of National Biography*. 2004. Web
-### Mr. Richard Wainwright
-Richard Wainwright (bap. 1757, d. 1825), chorister and musician of multiple instruments in Liverpool.
 
-"He was also apparently a cellist at the Manchester Gentlemen's Concerts, and may have been both the Mr Wainwright who led many local performances of Handel's oratorios as first violinist, and the one who at the Liverpool and Manchester music festivals between 1784 and 1789 variously played in the orchestra, played the organ, and conducted."
-
-Drage, Sally. "Wainwright family." *Oxford Dictionary of National Biography*. 2004. Web
 ### Henry Zinck, Esq.
 "Henry Zinck, of Liverpool, merchant" listed in the Bankrupts section of "Monthly Chronicle" within *The European Magazine, and London Review,* Volume 5
