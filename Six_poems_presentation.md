@@ -34,7 +34,7 @@ Blatchley, J.M. "Cobbold [née Knipe; other married name Clarke], Elizabeth." *O
 
 ![blank](white_space.png)
 ## "Thesis"
-While Knipe is best known as a cut paper artist, her collection of *Six Narrative Poems* deserves critical attention for its interaction with the movement to abolish slavery in Liverpool.
+While Knipe is best known as a cut paper artist, her collection of *Six Narrative Poems* deserves critical attention for its interaction with Liverpool's history in 1787, a year in which anti-slavery sentiment in Liverpool crystallized in the form of the Society for Effecting the Abolition of the Slave Trade.
 
 ![preface](Knipe_preface.png)
 
@@ -45,6 +45,16 @@ While Knipe is best known as a cut paper artist, her collection of *Six Narrativ
 
 ![blank](white_space.png)
 ## Liverpool context
+An anonymous history of Liverpool from 1795 describes it as: "the only town in England of any pre-eminencey ‘that has not a single erection or endowment for the advancement of science, the cultivation of the arts, or the promotion of useful knowledge... their buildings and places for amusement may please the native, but they have neither novelty, nor a superior elegancy to attract the notice of the judicious.’"
+
+- Liverpool saw massive growth in population and industry near the close of the eighteenth century, much of it traceable to the transatlantic slave trade.
+
+"although Liverpool led the way in trade and commerce, its pretensions to leadership in the arts of civilization were rather harder to sustain. And yet it was a contemporary common place that commerce and the arts should flourish together where freedom and liberty reigned. There was an expectation, therefore, that Liverpool, and other cities like it, had to live up to, that the fruits of civilization should be apparent in urban society. But equally there was another powerful tradition that insisted that true politeness and taste could not flourish amongst those whose primary concern was pecuniary gain. The fact that much of this profit derived from trafficking human beings added a further twist, of course, to this debate, particularly towards the end of the century. There was an air of defensive pride, therefore, in much that was written about Liverpool in this period."
+
+"the arts first began to flourish at precisely the time that William Roscoe published his famous ‘Ode on the Foundation for the Society for the Encouragement of Arts’ in 1773."
+
+National Museums Liverpool. "Transcript of 'Liverpool in the eighteenth century: a town of commerce and taste'" www.liverpoolmuseums.org.uk/podcasts/transcripts/derby_roey_sweet.aspx
+
 ![blank](white_space.png)
 ## The Anti-Slavery Society
 ![blank](white_space.png)
