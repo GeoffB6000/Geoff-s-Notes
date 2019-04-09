@@ -82,8 +82,10 @@ Liverpool
 ## Miss Day
 ## Mr. Robert Delap
 ## Mr. William Dennison, Junior
+Possibly the son of William Dennison, academic at Oxford (Darwall-Smith, Robin, A History of University College, Oxford. Oxford University Press, 2008.)
 ## Mr. John Derussat
 ## Mr. John Dickinson
+American revolutionary writer and thinker. Quaker
 ## Mrs. Diggles
 ## Mr. Dobb
 ## Reverend ___ Egton
@@ -103,6 +105,8 @@ Liverpool
 ## Rev. T. Foster
 ## Mr. Bromfield Foulkes
 ## Mr. Henry Fourdrinier
+Paper manufacturer
+## Mr. Charles Fourdrinier
 ## Mr. Gale
 ## Mr. Daniel Gardner
 ## Mr. Garland
